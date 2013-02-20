@@ -1,1 +1,1 @@
-from mdd comp
+from mdd LZG comp
